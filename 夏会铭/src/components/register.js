@@ -1,0 +1,11 @@
+import Vue from 'vue';
+import heading from './Common/heading';
+Vue.component('heading', heading);
+import banner from './banner';
+Vue.component('banner', banner);
+import foot from './foot';
+Vue.component('foot', foot);
+import navlist from './navlist';
+Vue.component('navlist', navlist);
+import hot from './hot';
+Vue.component('hot', hot);
